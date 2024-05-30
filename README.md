@@ -40,7 +40,7 @@ A modelagem de dados deste projeto é ligeiramente simples, contemplando apenas 
 
 ![image](https://i.ibb.co/p2DMfP0/diagrama-er.png)
 
-![image](https://github.com/geanogueira/projetopy/blob/main/images/tabela_fato.png)
+![image](https://i.ibb.co/6DDdngk/tabela-fato.png)
 
 ![image](https://i.ibb.co/6DDdngk/tabela-fato.png)
 
